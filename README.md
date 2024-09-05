@@ -12,6 +12,7 @@ pro_thai: province name in Thai
 province: province name
 lat: latitude
 lng: longitude
+name_id: name ID of the subdistrict
 amenity: general amenity POIs per sqkm
 amenity_cafe: cafe POIs per sqkm
 amenity_clinic: clinic POIs per sqkm
